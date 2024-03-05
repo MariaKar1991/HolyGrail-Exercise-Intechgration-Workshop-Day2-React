@@ -1,0 +1,17 @@
+.categories-links {
+  font-size: 30px;
+}
+
+li:hover {
+  color: rgb(13, 43, 13);
+}
+
+h3 {
+  color: purple;
+  text-align: center;
+  font-size: 60px;
+}
+
+.aside-main {
+  border-radius: 5px;
+}

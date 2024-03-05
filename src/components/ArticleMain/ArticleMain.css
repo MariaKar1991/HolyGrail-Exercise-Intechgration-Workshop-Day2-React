@@ -1,0 +1,13 @@
+p {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(48, 17, 48);
+}
+
+.aside-main {
+  border-radius: 5px;
+}
+
+.article-main {
+  border-radius: 5px;
+}

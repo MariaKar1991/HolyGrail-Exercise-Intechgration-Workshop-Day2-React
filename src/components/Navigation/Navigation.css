@@ -1,0 +1,17 @@
+.site-nav {
+  border-radius: 5px;
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+  color: white;
+  margin-top: 50px;
+  cursor: pointer;
+  margin-bottom: -40px;
+  margin-left: 20px;
+}
+
+li:hover {
+  color: rgb(13, 43, 13);
+}
